@@ -1,12 +1,13 @@
-## My Project
+## LLM Workshop on Amazon SageMaker
 
-TODO: Fill this README out!
+## Description
+LLM Workshop on Amazon SageMaker is an asset to help internal employees and customers to learn how to deploy & finetune multiple State-Of-Art LLMs  on Amazon SageMaker.
 
+**Support LLMs (In Progress) : **
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+- ChatGLM
+- ChatGLM2
+- LlaMa2
 
 ## Security
 
